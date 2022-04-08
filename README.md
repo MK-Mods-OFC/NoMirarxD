@@ -1,10 +1,6 @@
 # NoMirarxD
 Pruebas, No Mirar
 
-<p>
-	<img src="https://icones.pro/wp-content/uploads/2021/05/symbole-d-avertissement-jaune.png" width="5%"">
-</p>
-
 ## Introducció
 Aquest es una proba de projecte per practicar **MarkDown**
 
@@ -20,3 +16,4 @@ Una mica de codi `HTML`
 <html><body></body></html>
 ```
 
+![Hola](56.png)
